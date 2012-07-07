@@ -1,0 +1,2 @@
+default-config-fedora: default kernel config, derived from fedora
+kvm-mini-config: mini kernel config for kvm, NO initrd
